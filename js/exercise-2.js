@@ -1,0 +1,7 @@
+let myText = "Hello…";
+
+function sayHello() {
+  alert(myText);
+}
+
+sayHello();
